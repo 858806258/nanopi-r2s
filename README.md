@@ -1,0 +1,1 @@
+nanopi-r2s + coolsnowwolf/lede + docker-ce
